@@ -1,8 +1,4 @@
-Torch Model-Zoo
-===============
-Trained network models for [Torch](www.torch.ch) on various datasets (more to come...).
-## ImageNet (ILSVRC2012)
-These are network trained on the ILSVRC2012 classification task.
+Trained GoogLeNet v2 model for [Torch](www.torch.ch) trained on the ILSVRC2012 classification task.
 Accuracy is measured on validation set using a single center crop.
 
 
